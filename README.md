@@ -4,7 +4,7 @@ Hi there, if you are looking Magento (Adobe) developer with deep knowledge in th
 
 ## Skills
 -   **Type of Services**: Building eCommerce stores from scratch, Store Maintenance, Performance Audits, Extending the default Magento, ERP/CRM/BPM Integrations
--   **Languages**: PHP, Python, Golang, WebDev Stack (JS & HTML5 & CSS3)
+-   **Languages**: PHP, WebDev Stack (JS & HTML5 & CSS3)
 -   **Platforms**: Magento 2 (Community and Adobe Commerce), Magento Cloud
 -   **Software Engineering**: Domain-Driven Design, SOLID, Design patterns
 -   **Management**: Leading Teams, Developer Mentoring, Communication with business
