@@ -9,16 +9,28 @@ Hi there, if you are looking Magento (Adobe) developer with deep knowledge in th
 
 ## Expertise:
 🛠 Extensions development & customization
+
 🤑 Integration with 3rd party Payment Gateway
+
 🚚 3rd party shipping integrations
+
 🪢 Any 3rd party system integrations (ERP/BPM etc.)
+
 🔨 Admin panel customization
+
 🤹 API integration/development
+
 🛍️ B2B/B2C stores development
+
 ☁️ Magento Cloud
 
+
 🚀 Performance optimization
+
 📥 Magento data export & import
+
 🐞 Bug fixing (and creating a new one)
+
 🚧 Regular Support and Maintenance
+
 🌪 Magento 2 installation/setup/upgrade/patch installation
