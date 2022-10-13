@@ -33,3 +33,5 @@ Hi there, if you are looking Magento (Adobe) developer with deep knowledge in th
 🚧 Regular Support and Maintenance
 
 🌪 Magento 2 installation/setup/upgrade/patch installation
+
+> Feel free to contact via linkedin  👆[click](https://www.linkedin.com/in/bbakalov/)
