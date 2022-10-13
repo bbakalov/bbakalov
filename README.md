@@ -1,8 +1,6 @@
 Hi there, if you are looking Magento (Adobe) developer with deep knowledge in the e-commerce field, I'm here 🙂
 
-<br/>
 > Feel free to contact via Linkedin 👆[click](https://www.linkedin.com/in/bbakalov/)
-
 
 ## Skills
 -   **Type of Services**: Building eCommerce stores from scratch, Store Maintenance, Performance Audits, Extending the default Magento, ERP/CRM/BPM Integrations
