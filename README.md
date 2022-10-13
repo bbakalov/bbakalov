@@ -23,9 +23,7 @@ Hi there, if you are looking Magento (Adobe) developer with deep knowledge in th
 🛍️ B2B/B2C stores development
 
 ☁️ Magento Cloud
-
-
-
+<br/>
 🚀 Performance optimization
 
 📥 Magento data export & import
